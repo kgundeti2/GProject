@@ -71,7 +71,7 @@ public class EmpTest {
 
 
 
-		System.out.println();
+		System.out.println("Pringint list");
 
 	}
 	public static <T> List<List<T>> partitionList(List<T> list, int partitionSize) {
